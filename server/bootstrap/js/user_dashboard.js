@@ -7,7 +7,7 @@ function Job(data){
 	self.mod = data['module_id'];
 	self.name = data['job_name'];
 	self.status = data['state'];
-	self.time = "0:00";  // not implemented yet
+	self.time = "0:00";  // not implemented 
 }
 
 function Workspace(data){

@@ -10,6 +10,7 @@ function UserProfile(data) {
 
 	self.auth_data = sessionStorage['auth_data'];
 	self.complete_func = function (data){
+		//comments
 	      // packet structure:
 	      //   data.status = the status code (200 is good)
 	      //   data.responseText = the JSON data from the server

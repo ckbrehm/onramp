@@ -10,7 +10,7 @@ function PCE (data) {
 	self.description = data['description'];
 	self.location = data['location'];
 	self.modules = ko.observableArray();
-
+//comments
 
 }
 

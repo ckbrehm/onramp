@@ -1,4 +1,4 @@
-// This should be replaced by something actually secure at somepoint.
+// This should be replaced by something actually secure at somepoint in time.
 
 // This is a simple *viewmodel* - JavaScript that defines the data and behavior of your UI
 function DummyLoginViewModel() {
